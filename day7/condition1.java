@@ -8,11 +8,13 @@ public class condition1 {
         System.out.println("Enter your Salary :");
         Scanner sc = new Scanner(System.in);
         int salary= sc.nextInt();
-        if(salary>20000){
-            System.out.println("You are eligible for bonus 2000");
+        if(salary>10000){
+            salary = salary+2000;
+            System.out.println("your salary is : "+salary);
         }
          else{
-            System.out.println("You are eligible for only 1000");
+            salary= salary+1000;
+            System.out.println("your salary is : "+salary);
     }
 }
 }
