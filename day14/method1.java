@@ -11,5 +11,6 @@ public class method1 {
         int arr[]= {1,3,2,45,6};
         chang(arr);
         System.out.println(Arrays.toString(arr));
+        
     }
 }
