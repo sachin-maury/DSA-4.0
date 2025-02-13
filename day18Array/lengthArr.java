@@ -1,7 +1,4 @@
 
-
-
-
 public class lengthArr {
 
     public static void DemoArr(){
