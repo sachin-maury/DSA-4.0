@@ -12,3 +12,4 @@ public class method1 {
         return greeting;
     }
 }
+
