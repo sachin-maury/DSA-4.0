@@ -10,3 +10,4 @@ public class greeting2 {
         System.out.println("Your most welcom "+name);
     }
 }
+
