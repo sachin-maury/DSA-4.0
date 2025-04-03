@@ -7,5 +7,6 @@
         System.out.println("Enter your name:");
         String name = sc.nextLine();
         System.out.println("Your most welcom "+name);
+        System.out.println("Your most welcom "+name);
     }
 }
