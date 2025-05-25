@@ -25,7 +25,7 @@ public class uniquevalue {
         System.out.println("Enter array size here");
         int n = sc.nextInt();
         int [] arr = new int[n];
-        System.out.println("Enter "+n+" element");
+        System.out.println("Enter your"+n+" element");
         for(int i=0;i<arr.length; i++){
             arr[i]= sc.nextInt();
         }
