@@ -8,6 +8,7 @@ public class uniquevalue {
                 if (arr[i]==arr[j]) {
                     arr[i]=-1;
                     arr[j]=-1;
+                    
                 }
             }
         }
