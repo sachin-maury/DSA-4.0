@@ -8,6 +8,8 @@ public class practice3 {
         arr[2]=57;
         arr[3]=58;
         arr[4]=60;
+        
+        
 
         System.out.println(arr[0]);
     }
