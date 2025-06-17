@@ -3,7 +3,7 @@ public class practice4 {
         System.out.println("hii");
         System.out.println("How are you");
         System.out.println("hii");
-        System.err.println("h");
+      
 
 
     }
