@@ -7,5 +7,6 @@ public class practice5 {
         arr[3] = 23;
         arr[4] = 63;
         System.out.println(arr[2]);
+        System.out.println(arr[3]);
     }
 }
