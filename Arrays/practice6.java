@@ -1,7 +1,7 @@
 public class practice6 {
 
     void Run(){
-        int a =40;
+        int a =50;
         int b= 30;
         int c = a+b;
         System.out.println(c);
