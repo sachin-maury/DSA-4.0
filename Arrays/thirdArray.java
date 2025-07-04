@@ -22,5 +22,6 @@ public class thirdArray {
         thirdArray obj = new thirdArray();
         obj.MultiArray();
         
+        
     }
 }
