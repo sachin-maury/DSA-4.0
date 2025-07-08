@@ -13,6 +13,7 @@ public class practice9 {
       System.out.println(num[1][0]);
       System.out.println(num[1][1]);
       System.out.println(num[1][2]);
+      
 
       System.out.println(num[2][0]);
       System.out.println(num[2][1]);
