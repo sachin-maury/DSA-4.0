@@ -4,7 +4,7 @@ public class practice9 {
  
     void MultiArray(){
       //  int num [][]=new int[2][3];
-      
+    
     
       int num [] [] = {{5,6,4},{6,8,1},{7,9,4}};
       System.out.println(num[0][0]);
